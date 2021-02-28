@@ -30,7 +30,6 @@ class api_lib:
     response = requests.request("POST", self.url, headers=headers, data=payload, auth=self.sessionToken)
     return response
     
-
   def updateProduct(self, id, prodName="",description="", discount_amount="", status=""):
     payload = {}
     if prodName != "":
