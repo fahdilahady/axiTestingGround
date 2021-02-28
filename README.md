@@ -27,3 +27,8 @@
 
 ## Dependencies
 1. Selenium  (pip install selenium)
+2. webdriver-manager pip install webdriver-manager
+
+## Execute
+1. go to directory Quest14_UI_testing via cli
+2. run python gistTest.py
