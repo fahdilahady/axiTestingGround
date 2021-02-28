@@ -1,0 +1,13 @@
+13Please create API automations tests with user story.
+
+
+1. As a user, I want to create a product with data : {"name":"string", "description":"string","image":"string","price":integer,"status":false"}
+2. As a user, I want to see the details of a product that I recently create.
+3. As a user, I want to update the products that I recently created to include {"discount_amount":integer,"status":"true"}
+4. As a user, I want to delete the products that I recently updated.
+
+
+Remarks :
+- API url is "https://gorest.co.in/public-api/products".
+- All requests (GET, POST, PUT, DELETE) need Bearer token as an Authorization, please use "e3479c4068b18c10ce220f5665f1c206bff27b3e9a722bcc35cf52e36708a1fb".
+- Automation testing must have an assertions.

@@ -1,0 +1,14 @@
+14Please create end to end UI automation test with user story :
+1. As a user, I want to login to gist.github.com
+2. As a user, I want to create a gist
+3. As a user, I want to see the list of gists
+4. As a user, I want to delete a gist
+5. As a user, I want to edit a gist
+6. As a user, I want to logout from gist.github.com
+
+
+Remarks:
+- Use any tools/languages that you're comfortable with, or pseudocode if you want.
+- POM models is encouraged and rewarded more.
+- End to end means from start to finish (login to logout).
+- Automations testing must have an assertions
